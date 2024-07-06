@@ -1,9 +1,4 @@
-# React + Vite
+# React + Vite First Project(Simple Form Validation)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# REACT_simple_form_validation_system
+In this project i just used React js and miligram css and desinged a form, then just
+getting data from form and onsubmit simply showing the user data on the UI as a Details section
